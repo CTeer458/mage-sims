@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/mage-sims/static/css/main.046f4fa3.chunk.css",
-    "main.js": "/mage-sims/static/js/main.a147d872.chunk.js",
-    "main.js.map": "/mage-sims/static/js/main.a147d872.chunk.js.map",
-    "runtime-main.js": "/mage-sims/static/js/runtime-main.b0e37748.js",
-    "runtime-main.js.map": "/mage-sims/static/js/runtime-main.b0e37748.js.map",
+    "main.js": "/mage-sims/static/js/main.ba206ffb.chunk.js",
+    "main.js.map": "/mage-sims/static/js/main.ba206ffb.chunk.js.map",
+    "runtime-main.js": "/mage-sims/static/js/runtime-main.b49e8d9c.js",
+    "runtime-main.js.map": "/mage-sims/static/js/runtime-main.b49e8d9c.js.map",
     "static/js/2.69331246.chunk.js": "/mage-sims/static/js/2.69331246.chunk.js",
     "static/js/2.69331246.chunk.js.map": "/mage-sims/static/js/2.69331246.chunk.js.map",
-    "static/js/3.9389a7f3.chunk.js": "/mage-sims/static/js/3.9389a7f3.chunk.js",
-    "static/js/3.9389a7f3.chunk.js.map": "/mage-sims/static/js/3.9389a7f3.chunk.js.map",
+    "static/js/3.88ba11a4.chunk.js": "/mage-sims/static/js/3.88ba11a4.chunk.js",
+    "static/js/3.88ba11a4.chunk.js.map": "/mage-sims/static/js/3.88ba11a4.chunk.js.map",
     "index.html": "/mage-sims/index.html",
     "static/css/main.046f4fa3.chunk.css.map": "/mage-sims/static/css/main.046f4fa3.chunk.css.map",
     "static/js/2.69331246.chunk.js.LICENSE.txt": "/mage-sims/static/js/2.69331246.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b0e37748.js",
+    "static/js/runtime-main.b49e8d9c.js",
     "static/js/2.69331246.chunk.js",
     "static/css/main.046f4fa3.chunk.css",
-    "static/js/main.a147d872.chunk.js"
+    "static/js/main.ba206ffb.chunk.js"
   ]
 }
