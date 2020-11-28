@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mage-sims/static/css/main.4ce37049.chunk.css",
-    "main.js": "/mage-sims/static/js/main.f5cc5ccf.chunk.js",
-    "main.js.map": "/mage-sims/static/js/main.f5cc5ccf.chunk.js.map",
-    "runtime-main.js": "/mage-sims/static/js/runtime-main.020cd78e.js",
-    "runtime-main.js.map": "/mage-sims/static/js/runtime-main.020cd78e.js.map",
-    "static/js/2.f766a847.chunk.js": "/mage-sims/static/js/2.f766a847.chunk.js",
-    "static/js/2.f766a847.chunk.js.map": "/mage-sims/static/js/2.f766a847.chunk.js.map",
-    "static/js/3.77e1534d.chunk.js": "/mage-sims/static/js/3.77e1534d.chunk.js",
-    "static/js/3.77e1534d.chunk.js.map": "/mage-sims/static/js/3.77e1534d.chunk.js.map",
+    "main.css": "/mage-sims/static/css/main.53c26119.chunk.css",
+    "main.js": "/mage-sims/static/js/main.50dd3f25.chunk.js",
+    "main.js.map": "/mage-sims/static/js/main.50dd3f25.chunk.js.map",
+    "runtime-main.js": "/mage-sims/static/js/runtime-main.acb8cf8d.js",
+    "runtime-main.js.map": "/mage-sims/static/js/runtime-main.acb8cf8d.js.map",
+    "static/js/2.1235922c.chunk.js": "/mage-sims/static/js/2.1235922c.chunk.js",
+    "static/js/2.1235922c.chunk.js.map": "/mage-sims/static/js/2.1235922c.chunk.js.map",
+    "static/js/3.998c90c2.chunk.js": "/mage-sims/static/js/3.998c90c2.chunk.js",
+    "static/js/3.998c90c2.chunk.js.map": "/mage-sims/static/js/3.998c90c2.chunk.js.map",
     "index.html": "/mage-sims/index.html",
-    "static/css/main.4ce37049.chunk.css.map": "/mage-sims/static/css/main.4ce37049.chunk.css.map",
-    "static/js/2.f766a847.chunk.js.LICENSE.txt": "/mage-sims/static/js/2.f766a847.chunk.js.LICENSE.txt"
+    "static/css/main.53c26119.chunk.css.map": "/mage-sims/static/css/main.53c26119.chunk.css.map",
+    "static/js/2.1235922c.chunk.js.LICENSE.txt": "/mage-sims/static/js/2.1235922c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.020cd78e.js",
-    "static/js/2.f766a847.chunk.js",
-    "static/css/main.4ce37049.chunk.css",
-    "static/js/main.f5cc5ccf.chunk.js"
+    "static/js/runtime-main.acb8cf8d.js",
+    "static/js/2.1235922c.chunk.js",
+    "static/css/main.53c26119.chunk.css",
+    "static/js/main.50dd3f25.chunk.js"
   ]
 }
