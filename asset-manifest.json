@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mage-sims/static/css/main.13dc3729.chunk.css",
-    "main.js": "/mage-sims/static/js/main.da5e0995.chunk.js",
-    "main.js.map": "/mage-sims/static/js/main.da5e0995.chunk.js.map",
+    "main.js": "/mage-sims/static/js/main.f4c3abb0.chunk.js",
+    "main.js.map": "/mage-sims/static/js/main.f4c3abb0.chunk.js.map",
     "runtime-main.js": "/mage-sims/static/js/runtime-main.7d79bd53.js",
     "runtime-main.js.map": "/mage-sims/static/js/runtime-main.7d79bd53.js.map",
     "static/js/2.5f26fd24.chunk.js": "/mage-sims/static/js/2.5f26fd24.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.7d79bd53.js",
     "static/js/2.5f26fd24.chunk.js",
     "static/css/main.13dc3729.chunk.css",
-    "static/js/main.da5e0995.chunk.js"
+    "static/js/main.f4c3abb0.chunk.js"
   ]
 }
